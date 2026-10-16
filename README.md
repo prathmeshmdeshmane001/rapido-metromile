@@ -2,6 +2,9 @@
 
 A full-fidelity replica of the [Rapido MetroMile Bengaluru Commute Concept website](https://metromile-bengaluru-commute.tart-cabin-5354.chatgpt.site/?utm_source=chatgpt.com).
 
+🔗 **Live Deployment:** [https://rapido-metromile.vercel.app](https://rapido-metromile.vercel.app)  
+📦 **GitHub Repository:** [https://github.com/prathmeshmdeshmane001/rapido-metromile](https://github.com/prathmeshmdeshmane001/rapido-metromile)
+
 ## 🚀 Features
 
 1. **3D Isometric Cinematic Journey (Section 1)**:
