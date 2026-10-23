@@ -1,0 +1,3 @@
+Introducing Rapido MetroMile: Bengaluru's integrated multimodal commute uniting auto first/last mile with Namma Metro ticketing under one unified ticket and guaranteed zero surge pricing.
+
+Experience the live interactive prototype: https://rapido-metromile.vercel.app

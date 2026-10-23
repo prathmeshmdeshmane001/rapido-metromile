@@ -25,3 +25,8 @@ dist-ssr
 
 # Vercel
 .vercel
+
+# Hyperframes build artifacts
+.hyperframes
+**/__pycache__
+
